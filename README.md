@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Barbara Do Couto Vidal
 
 <!--
 **barbaraDoCoutoVidal/BarbaraDoCoutoVidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
