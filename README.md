@@ -4,7 +4,7 @@
 
 Engineering degree in Computer Science (ENSEEIHT, Toulouse), specialising in signal & image processing, computer vision and artificial intelligence. I build end-to-end computer vision pipelines: from raw data preprocessing and 2D/3D reconstruction to classification, segmentation and object detection, as well as production-ready AI tools: LLM agents, RAG pipelines and decision-support systems for critical operational contexts.
 
-📬 barbara.vidaldocouto@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/barbara-dcv/)
+✉️ barbara.vidaldocouto@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/barbara-dcv/)
 
 ---
 
